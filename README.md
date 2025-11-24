@@ -13,8 +13,29 @@ Nosso público-alvo são os alunos da escola, que passam a ter acesso rápido a 
 
 (Organização do projeto)
 
+Ferramentas Utilizadas
+• Trello – Organização das tarefas e gerenciamento do fluxo de trabalho
+• GitHub – Controle de versão e compartilhamento do código
+• Figma – Criação de protótipos e design UI/UX
+• Google Docs – Documentação geral do projeto
 
+Divisão de Responsabilidades
 
+• Maria Luiza Santana – Responsável pelo Trello e líder do projeto
+• Efraim Nascimento – Responsável pelo GitHub e vice-líder
+• Júlia Abreu – Responsável pelo Figma (UI/UX)
+• Grazielle Miranda – Responsável pela Documentação (Docs)
 
+(Funcionalidades implementadas)
+
+Tela de Login e Cadastro ✅
+
+Tela Inicial / Dashboard ✅
+
+Tela de Detalhes do Livro ✅
+
+Tela de Créditos do Usuário ✅
+
+Tela de Administração ✅
 
 
