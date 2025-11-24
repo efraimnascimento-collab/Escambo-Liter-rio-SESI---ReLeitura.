@@ -40,3 +40,8 @@ Nosso público-alvo são os alunos da escola, que passam a ter acesso rápido a 
 𝐓𝐞𝐬𝐭𝐞𝐬 𝐞 𝐈𝐬𝐬𝐮𝐞𝐬:
 
 
+𝐂𝐫é𝐝𝐢𝐭𝐨𝐬:
+Instituição: SESI/SENAI
+Curso: Técnico em Informática para Internet
+Professor orientador: Adalberto Santana
+Turma:92232 
