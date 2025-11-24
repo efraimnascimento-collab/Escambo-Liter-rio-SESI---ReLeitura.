@@ -45,4 +45,4 @@ https://escolasesiba-my.sharepoint.com/:w:/g/personal/0000216316_escolasesiba_co
 Instituição: SESI/SENAI
 Curso: Técnico em Informática para Internet
 Professor orientador: Adalberto Santana
-Turma:92232 
+Turma:92232
