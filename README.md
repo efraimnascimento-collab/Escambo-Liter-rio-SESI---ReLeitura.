@@ -38,7 +38,7 @@ Nosso público-alvo são os alunos da escola, que passam a ter acesso rápido a 
 • Tela de Administração ✅
 
 𝐓𝐞𝐬𝐭𝐞𝐬 𝐞 𝐈𝐬𝐬𝐮𝐞𝐬:
-
+https://escolasesiba-my.sharepoint.com/:w:/g/personal/0000176772_escolasesiba_com_br/IQCdyslLP-puSbD2tUMRFi_cAeszQQexqMNlF642et9izwU?e=g7ZPJJ
 
 𝐂𝐫é𝐝𝐢𝐭𝐨𝐬:
 Instituição: SESI/SENAI
