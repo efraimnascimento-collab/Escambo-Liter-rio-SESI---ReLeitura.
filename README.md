@@ -37,4 +37,6 @@ Nosso público-alvo são os alunos da escola, que passam a ter acesso rápido a 
 
 • Tela de Administração ✅
 
+𝐓𝐞𝐬𝐭𝐞𝐬 𝐞 𝐈𝐬𝐬𝐮𝐞𝐬:
+
 
